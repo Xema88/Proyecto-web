@@ -11,6 +11,11 @@ h1{/*Título*/
     color:skyblue;/*Cambia el color*/
     
 }
+html{
+    background-color:black;
+    color:white;
+}
+h2{color:aqua;}/*Cambia el color*/
 nav li{/*Elementos de la lista del nav*/
     display:inline-flex;/*Maquetación con flex*/
     padding:1em;/*Da un margen*/
@@ -20,10 +25,10 @@ nav li{/*Elementos de la lista del nav*/
 nav li:nth-child(odd){background-color:rgb(212,175,55);}/*Cambia el color de fondo de los elementos de la lista del nav impares con RGB*/
 nav li:nth-child(even){background-color:green;}/*Cambia el color de fondo de elementos de la lista del nav pares con RGB*/
 nav li a{/*Enlaces de los elementos de la lista del nav*/
-    color:green;/*Cambia el color*/
+    color:lightblue;/*Cambia el color*/
     text-decoration:none;/*Quita el subrayado*/
     text-align:center;/*Centra el texto*/
-    text-shadow:1px 1px white;/*Da una sombra*/
+    text-shadow:1px 1px black;/*Da una sombra*/
 }
 nav li a:hover{/*Enlaces de los elementos de la lista del nav al poner el cursor encima*/
     color:lightgreen;/*Cambia el color*/

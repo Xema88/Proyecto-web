@@ -25,7 +25,7 @@ nav li{/*Elementos de la lista del nav*/
 nav li:nth-child(odd){background-color:rgb(212,175,55);}/*Cambia el color de fondo de los elementos de la lista del nav impares con RGB*/
 nav li:nth-child(even){background-color:green;}/*Cambia el color de fondo de elementos de la lista del nav pares con RGB*/
 nav li a{/*Enlaces de los elementos de la lista del nav*/
-    color:lightblue;/*Cambia el color*/
+    color:aqua;/*Cambia el color*/
     text-decoration:none;/*Quita el subrayado*/
     text-align:center;/*Centra el texto*/
     text-shadow:1px 1px black;/*Da una sombra*/

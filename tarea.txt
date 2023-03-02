@@ -1,0 +1,7 @@
+GitHub: https://github.com/Xema88/Proyecto-web.git
+
+Plantilla: Ninguna
+
+URL donde se aloja la página: https://lmsgjosemaria.000webhostapp.com/Proyecto%20web
+
+5: He subido la página a 000webhost, usando el File Manager en el apartado Tools, no usé ningún cliente FTP y la página se ha subido en la carpeta public_html dentro de la carpeta "Proyecto web".
